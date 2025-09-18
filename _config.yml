@@ -16,7 +16,7 @@ timezone: Asia/Shanghai
 
 title: mushroomTiger # the main title
 
-tagline: 身披斑斓，心藏云雾 # it will display as the subtitle
+tagline: everyone is a long soul  # it will display as the subtitle 身披斑斓，心藏云雾
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -38,8 +38,8 @@ social:
   email: mushroomTiger@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
+    - https://github.com/mushroomTiger # change to your GitHub homepage
     - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
